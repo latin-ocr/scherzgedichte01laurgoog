@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./scherzgedichte01laurgoog_0012.png"; bbox 0 0 3700 5692; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 556 823 1345 967">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 556 823 1345 967">
+     <span class='ocr_line' id='line_1_1' title="bbox 556 823 1345 967; baseline 0.001 -25"><span class='ocrx_word' id='word_1_1' title='bbox 556 823 1227 943; x_wconf 79' lang='lat' dir='ltr'>SOHERZGEDIOHTE</span> <span class='ocrx_word' id='word_1_2' title='bbox 1340 959 1345 967; x_wconf 42' lang='grc'><strong><em>,</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 313 1511 1465 1811">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 313 1511 1465 1811">
+     <span class='ocr_line' id='line_1_2' title="bbox 313 1511 1465 1811; baseline -0.003 0"><span class='ocrx_word' id='word_1_3' title='bbox 313 1511 722 1811; x_wconf 74' lang='lat' dir='ltr'>JOHANN</span> <span class='ocrx_word' id='word_1_4' title='bbox 774 1639 1465 1808; x_wconf 72' lang='lat' dir='ltr'><strong>LAUREMBERG</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 754 2170 1032 2240">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 754 2170 1032 2240">
+     <span class='ocr_line' id='line_1_3' title="bbox 754 2170 1032 2240; baseline -0.007 0"><span class='ocrx_word' id='word_1_5' title='bbox 754 2170 1032 2240; x_wconf 77' lang='lat' dir='ltr'><strong>HERAUSGEGEBEN</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 576 2937 1207 3035">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 576 2937 1207 3035">
+     <span class='ocr_line' id='line_1_4' title="bbox 576 2937 1207 3035; baseline -0.008 0"><span class='ocrx_word' id='word_1_6' title='bbox 576 2941 623 3035; x_wconf 89' lang='lat' dir='ltr'>J.</span> <span class='ocrx_word' id='word_1_7' title='bbox 657 2941 724 3033; x_wconf 89' lang='lat' dir='ltr'>M.</span> <span class='ocrx_word' id='word_1_8' title='bbox 757 2937 1207 3033; x_wconf 82' lang='lat' dir='ltr'><strong>LAPPENBERG.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1854 5692">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1854 5692">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1854 5692; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1854 5692; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
